@@ -2,6 +2,8 @@ title: Node.js Project
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Reduce
+  statement: markdowns/reduce.md
 projects:
   nodejs:
     root: /nodejs-project
